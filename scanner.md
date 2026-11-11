@@ -1,4 +1,3 @@
-```markdown
 # GCP Folder → GKE Clusters Scan
 
 Session notes and working code: recursively walk a GCP folder hierarchy, list/describe GKE clusters in descendant projects, store results in SQLite (keep last 20 queries), with notes on multithreading and evolving schema.
